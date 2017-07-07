@@ -702,11 +702,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-1 .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-1 .dropdown-item,
 #menu-1 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-1 .link:hover,
 #menu-1 .dropdown-item:hover,
@@ -781,11 +781,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-4 .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
@@ -852,11 +852,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-7 .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-7 .dropdown-item,
 #menu-7 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-7 .link:hover,
 #menu-7 .dropdown-item:hover,
@@ -923,11 +923,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-a .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-a .link:hover,
 #menu-a .dropdown-item:hover,
